@@ -1,0 +1,4 @@
+digraph "summary" {
+  "Main.class"                                       -> "foo";
+  "Main.class"                                       -> "java.base (java.base)";
+}
